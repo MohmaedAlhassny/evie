@@ -13,7 +13,7 @@ client.on('ready', () => {
     console.log(`in ${client.guilds.size} servers `)
     console.log(`[Alhassny Orders] ${client.users.size}`)
     client.user.setStatus("DND");
-    client.user.setActivity('2Play',{type: 'PLAYING'});
+    client.user.setActivity('Alhassny Orders.',{type: 'PLAYING'});
 });
 //by ,$ ReBeL ء , 🔕#4777 'CODES SERVER'
 const prefix = "e";
